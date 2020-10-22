@@ -1,0 +1,209 @@
+@font-face {
+	font-family: MyShrift;
+	src: url('fonts/MyShrift.ttf');
+}
+
+@font-face {
+    font-family: SHRIFT2;
+    src: url('fonts/SRIFT2.otf');
+}
+
+h1{
+    color: rgb(0, 0, 255);
+    text-align: center;
+    font-size: 500%;
+    font-family: SHRIFT2;
+}
+body{
+    margin:0;
+    padding: 0;
+    line-height: 1.6;
+    font-size: 16px;
+    background-image:url(https://klv-oboi.ru/img/gallery/56/thumbs/25288-730.jpg)
+    }
+    
+    #header{
+    position: relative;
+    }
+    
+    #sm{
+    float: left;
+    position: absolute;
+    margin-top: 16px;
+    left: 176px; 
+    } 
+    
+    #cross{
+    float: right;
+    margin-top: 96px;
+    right: -176px;
+    }
+
+.xxx{
+    color: rgb(255, 0, 43);
+    font-size: 700%;
+    font-family: MyShrift;
+}
+
+.Салаты{
+    font-size: 500%;
+    color: crimson;
+    font-family: 'Pacifico', cursive;
+}
+
+.Таблица-салатов{
+    font-size: 250%;
+    color: orangered;
+    font-family: 'Lobster', cursive;
+}
+
+.закуски{
+    font-size: 500%;
+    color: crimson;
+    font-family: 'Pacifico', cursive; 
+}
+
+.таблица-закуски{
+    color: crimson;
+    font-size: 250%;
+    font-family: 'Lobster', cursive;
+}
+
+.гарниры{
+    font-size: 500%;
+    color: crimson;
+    font-family: 'Pacifico', cursive; 
+}
+
+.таблица-гарниров{
+    color: crimson;
+    font-size: 250%;
+    font-family: 'Lobster', cursive;
+}
+
+.Паста{
+    color: crimson;
+    font-size: 500%;
+    font-family: 'Pacifico', cursive;  
+}
+
+.таблица-паст{
+    color: crimson;
+    font-size: 250%;
+    font-family: 'Lobster', cursive;
+}
+
+.Пицца{
+    color: crimson;
+    font-size: 500%;
+    font-family: 'Lobster', cursive;
+}
+
+.таблица-пицц{
+    color: crimson;
+    font-size: 250%;
+    font-family: 'Lobster', cursive;
+}
+
+.Горячие-блюда{
+    color: crimson;
+    font-size: 500%;
+    font-family: 'Pacifico', cursive;
+}
+
+.таблица-горячих-блюд{
+    color: crimson;
+    font-size: 250%;
+    font-family: 'Lobster', cursive;
+}
+
+.Шашлык{
+    color: crimson;
+    font-size: 500%;
+    font-family: 'Pacifico', cursive;
+}
+
+.таблица-Шашлыков{
+    color: crimson;
+    font-size: 250%;
+    font-family: 'Lobster', cursive;
+}
+
+.Детское-меню{
+    color: crimson;
+    font-size: 500%;
+    font-family: 'Pacifico', cursive;
+}
+
+.таблица-Детское-меню{
+    color: crimson;
+    font-size: 250%;
+    font-family: 'Lobster', cursive;
+}
+
+.Десерты{
+    color: crimson;
+    font-size: 500%;
+    font-family: 'Pacifico', cursive;
+}
+
+.таблица-Десертов{
+    color: crimson;
+    font-size: 250%;
+    font-family: 'Lobster', cursive;
+}
+
+.Завтраки{
+    color: crimson;
+    font-size: 500%;
+    font-family: 'Pacifico', cursive;
+}
+
+.таблица-Завтраков {
+    color: crimson;
+    font-size: 250%;
+    font-family: 'Lobster', cursive;
+}
+
+.Роллы{
+    color: crimson;
+    font-size: 500%;
+    font-family: 'Pacifico', cursive;
+}
+
+.таблица-Роллов{
+    color: crimson;
+    font-size: 250%;
+    font-family: 'Lobster', cursive;
+}
+
+.Бургер{
+    color: crimson;
+    font-size: 500%;
+    font-family: 'Pacifico', cursive;
+}
+
+.таблица-Бургеров{
+    color: crimson;
+    font-size: 250%;
+    font-family: 'Lobster', cursive;
+}
+
+.Сэндвичи{
+    color: crimson;
+    font-size: 500%;
+    font-family: 'Pacifico', cursive;
+}
+
+.таблица-Сэндвичей{
+    color: crimson;
+    font-size: 250%;
+    font-family: 'Lobster', cursive;
+}
+
+.ВИНКАРТА{
+    color: rgb(0, 0, 255);
+    text-align: center;
+    font-size: 500%;
+    font-family: SHRIFT2;
+}
